@@ -1,8 +1,5 @@
 package com.slidingmenu.lib;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
@@ -29,8 +26,9 @@ import android.widget.Scroller;
 
 import com.slidingmenu.lib.SlidingMenu.OnClosedListener;
 import com.slidingmenu.lib.SlidingMenu.OnOpenedListener;
-//import com.slidingmenu.lib.SlidingMenu.OnCloseListener;
-//import com.slidingmenu.lib.SlidingMenu.OnOpenListener;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class CustomViewAbove extends ViewGroup {
 
