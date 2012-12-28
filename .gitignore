@@ -13,4 +13,4 @@ release
 gen
 .metadata/
 .metadata
-*.project
+.DS_Store
